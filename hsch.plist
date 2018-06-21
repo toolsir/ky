@@ -15,14 +15,6 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://www.toolsir.cn/icon/largeImage.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
 					<true/>
@@ -33,15 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.pangu.small</string>
+				<string>com.again.free002</string>
 				<key>bundle-version</key>
-				<string>6.6.1</string>
+				<string>6.5.8.32</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>微信vip</string>
 				<key>title</key>
-				<string>微信大灰-后期更新请关注微信公众号：工具Sir</string>
+				<string>微信大灰-后期更新请关注公众号：工具Sir</string>
 			</dict>
 		</dict>
 	</array>
