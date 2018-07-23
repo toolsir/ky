@@ -21,7 +21,7 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
       <key>needs-shine</key>
       <true/>
       <key>url</key>
-      <string>http://www.dafuai.com/200.png</string>
+      <string>http:///www.zhuanqianbar.cn/tools/images/BBB.png</string>
      </dict>
      <dict>
       <key>kind</key>
@@ -29,7 +29,7 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
       <key>needs-shine</key>
       <true/>
       <key>url</key>
-      <string>http://www.dafuai.com/200.png</string>
+      <string>http:///www.zhuanqianbar.cn/tools/images/BBB.png</string>
      </dict>
     </array>
     <key>metadata</key>
