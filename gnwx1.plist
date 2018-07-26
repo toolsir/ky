@@ -13,7 +13,7 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
       <key>kind</key>
       <string>software-package</string>
       <key>url</key>
-      <string>http://fenfa.dafuai.com/AP1GquThH201807230139562437.ipa?sign=780329e91c77c2916b1796bd05f46bfa&amp;t=5b5544da</string>
+      <string>http://fenfa.dafuai.com/9JjsYXYCj201807262354137424.ipa?sign=0ba58b273e58520af76de2672ff54955&amp;t=5b59fdb6</string>
      </dict>
      <dict>
       <key>kind</key>
@@ -21,7 +21,7 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
       <key>needs-shine</key>
       <true/>
       <key>url</key>
-      <string>http:///www.zhuanqianbar.cn/tools/images/BBB.png</string>
+      <string>http://www.dafuai.com/200.png</string>
      </dict>
      <dict>
       <key>kind</key>
@@ -29,13 +29,13 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
       <key>needs-shine</key>
       <true/>
       <key>url</key>
-      <string>http:///www.zhuanqianbar.cn/tools/images/BBB.png</string>
+      <string>http://www.dafuai.com/200.png</string>
      </dict>
     </array>
     <key>metadata</key>
     <dict>
      <key>bundle-identifier</key>
-     <string>com.interview.jxws01.dafuai</string>
+     <string>com.interview.jxws02.dafuai</string>
      <key>bundle-version</key>
      <string>6.6.7</string>
      <key>kind</key>
@@ -43,7 +43,7 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
      <key>subtitle</key>
      <string>微信</string>
      <key>title</key>
-     <string>功能微信-更多福利及更新请关注公众号：toolsir</string>
+     <string>功能微信1-更多福利及更新关注公众号：toolsir</string>
     </dict>
    </dict>
   </array>
