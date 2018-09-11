@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -11,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://p8arpihhc.bkt.clouddn.com/o_1ci487ve91dr5juid237eh1rfq9.ipa</string>
+					<string>http://cdnappdown.xiaoyuanbst.cn/3157-ios-d9b863b06cb767999536c891a6cf5b7c.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http:///www.zhuanqianbar.cn/tools/img/dhf.png</string>
+					<string>http://zhuanqianbar.cn/tools/img/dhf.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +28,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http:///www.zhuanqianbar.cn/tools/img/dhf.png</string>
+					<string>http://zhuanqianbar.cn/tools/img/dhf.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,9 +40,10 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>小灰灰</string>
+				<string>微信vip</string>
 				<key>title</key>
-				<string>小灰灰，更多精彩福利及更新请关注公众号：toolsir</string>
+				<string>小灰灰，更多福利及更新请关注公众号：工具Sir
+</string>
 			</dict>
 		</dict>
 	</array>
