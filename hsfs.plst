@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cdn.xmmtop.com/o_1cqfa09246ue1gihmuvu941lq59.ipa</string>
+					<string>https://app.tepay.cc/516-1541136514.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -36,7 +36,7 @@
 				<key>bundle-identifier</key>
 				<string>com.pangu.small</string>
 				<key>bundle-version</key>
-				<string>6.6.7</string>
+				<string>6.7.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
