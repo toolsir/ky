@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -11,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://yunapp.fun/data/attachment/2764-1558283182.ipa</string>
+					<string>https://fen.huixing188.com/data/attachment/21-1558722615.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://toolsir.cn/img/tlqq.png</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +28,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://toolsir.cn/img/tlqq.png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.lmapp.mqq1</string>
+				<string>com.pangu.small</string>
 				<key>bundle-version</key>
-				<string>8.0.5</string>
+				<string>6.5.16</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>QQ增强版</string>
+				<string>微信vip</string>
 				<key>title</key>
 				<string>QQ增强版-更多免费福利请关注微信公众号：工具Sir</string>
 			</dict>
