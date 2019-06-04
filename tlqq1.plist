@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://qiniu.cw.pub/155559800257179.ipa</string>
+					<string>https://yunapp.fun/data/attachment/2764-1558283182.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.again.free001</string>
+				<string>com.lmapp.mqq1</string>
 				<key>bundle-version</key>
-				<string>6.9.99</string>
+				<string>8.0.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
