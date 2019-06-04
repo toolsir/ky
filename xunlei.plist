@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -11,21 +12,29 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://down.tutuapp.net/apps/zb/003/29/14/64/5c77f5ce1a2ab4e16c93842.ipa</string>
+					<string>http://hot.haima.me/ee/201901/193e/com.xunlei.ithunder_5.29.1.2316_1_20181103232030_9k6y6t.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+                        <string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.flex2areo.kwplayer</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>subtitle</key>
-				<string></string>
-				<key>title</key>
-				<string>迅雷bate版-更多好玩关注公众号：工具Sir</string>
+                    <string>com.again.free001</string>
+                    <key>bundle-version</key>
+                    <string>6.6.2</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>微信</string>
+                    <key>title</key>
+				<string>迅雷内测版-更多免费软件关注微信公众号：工具Sir</string>
 			</dict>
 		</dict>
 	</array>
