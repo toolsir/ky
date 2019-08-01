@@ -1,5 +1,8 @@
 
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist
+PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+       "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
  <dict>
   <key>items</key>
@@ -11,21 +14,37 @@
       <key>kind</key>
       <string>software-package</string>
       <key>url</key>
-      <string>https://dev-075.baidupan.com/da85fe4a7305421fe843c40ba6f65563/1564303626/2019/07/28/8eacdb62b6eaaf21b143a3bed8f13784.ipa</string>
+      <string>http://cdn.jilesp.com/640-1564369725.ipa</string>
+     </dict>
+     <dict>
+      <key>kind</key>
+      <string>display-image</string>
+      <key>needs-shine</key>
+      <true/>
+      <key>url</key>
+      <string>http://toolsir.cn/img/xhh.png</string>
+     </dict>
+     <dict>
+      <key>kind</key>
+      <string>full-size-image</string>
+      <key>needs-shine</key>
+      <true/>
+      <key>url</key>
+      <string>http://toolsir.cn/img/xhh.png</string>
      </dict>
     </array>
     <key>metadata</key>
     <dict>
      <key>bundle-identifier</key>
-     <string>com.aldb.ios.magic.199102</string>
+     <string>com.tencent.xin.watch</string>
      <key>bundle-version</key>
-     <string>1</string>
+     <string>0.0.1</string>
      <key>kind</key>
      <string>software</string>
      <key>subtitle</key>
-     <string>App Subtitle</string>
+     <string>小灰</string>
      <key>title</key>
-     <string>微信大灰，更多福利及更新请关注公众号：工具Sir</string>
+     <string>微信大灰，后期更新及修复关注公众号:工具Sir</string>
     </dict>
    </dict>
   </array>
