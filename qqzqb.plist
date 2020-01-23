@@ -12,35 +12,17 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://fen.huixing188.com/data/attachment/21-1558722615.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string></string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string></string>
+					<string>http://ipawj.nuosike.cn/ipa/noroot/nskfuli42_QQ.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.pangu.small</string>
-				<key>bundle-version</key>
-				<string>6.5.16</string>
+				<string>com.tencent.mqq2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>QQ增强版</string>
+				<string>v1</string>
 				<key>title</key>
 				<string>QQ增强版-更多免费福利请关注微信公众号：工具Sir</string>
 			</dict>
@@ -48,3 +30,4 @@
 	</array>
 </dict>
 </plist>
+
